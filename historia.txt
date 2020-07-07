@@ -5,3 +5,5 @@ Tengo 28 años, nacido en Colombia
 Estoy aprendiendo Git y Github
 
 Me esta enseñando Freddy Vega
+
+Otra linea para ir avanzando a ver si el checkout esta funcionando
