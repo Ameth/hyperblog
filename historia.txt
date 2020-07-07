@@ -3,3 +3,5 @@ Hola. Soy Ameth Ordoñez Erazo
 Tengo 28 años, nacido en Colombia
 
 Estoy aprendiendo Git y Github
+
+Me esta enseñando Freddy Vega
