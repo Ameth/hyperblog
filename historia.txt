@@ -1,9 +1,5 @@
-Hola. Soy Ameth Ordoñez Erazo
+Hola. Soy Ameth Cyborg
 
-Tengo 28 años, nacido en Colombia
+Tengo 28 años, nacido en Internet
 
-Estoy aprendiendo Git y Github
-
-Me esta enseñando Freddy Vega
-
-Otra linea para ir avanzando a ver si el checkout esta funcionando
+Soy heredero de Ameth via Git
