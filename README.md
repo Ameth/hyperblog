@@ -5,6 +5,8 @@ Mi repositorio del curso de Git y GitHub de [Platzi](http://www.platzi.com "Plat
 
 > Ameth Ordoñez
 
-Crear por Ameth Ordoñez
+Crear por Ameth Ordoñez.
+
+Con todos los ejemplos incluidos
 
 Los invito a que ingresen al curso de Platzi de Git y GitHub [en este enlace](https://platzi.com/clases/git-github/ "en este enlace")
